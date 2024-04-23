@@ -1,0 +1,218 @@
+:root {
+    --fondo: #1A2027;
+    --fondo_light: #344250;
+    --linea: #848484a7;
+    --primario: #E03D3D;
+    --secundario: #267DE0;
+    --secundario_hover: #428ee6;
+    --secundario_fondo: #267de07e;
+    --texto: #FFFFFF;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: var(--fondo);
+    margin: 0;
+    padding: 0;
+    color: var(--texto)
+}
+
+button {
+    background-color: var(--secundario);
+    color: var(--texto);
+    padding: 10px;
+    border-radius: 14px;
+    cursor: pointer;
+    box-shadow: none;
+    border: none;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+h4 {
+    color: var(--secundario_hover);
+    font-family: "Cutive Mono", monospace;
+    font-weight: 700;
+    font-size: large;
+    font-style: normal;
+    margin: 5px;
+    font-size: 1.5rem;
+}
+
+h1 {
+    color: var(--texto);
+    font-family: "Cuprum", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: 6rem;
+}
+
+p {
+    color: var(--texto);
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+h2 {
+    color: var(--texto);
+    font-family: "Cuprum", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+.panel h1 {
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+hr {
+    border: 0.1px solid var(--linea);
+}
+
+.panel img {
+    height: 400px;
+    object-fit: contain;
+}
+
+.frase {
+    font-size: 1.5rem;
+}
+
+.panel {
+    height: 100vh;
+    background-color: var(--fondo);
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-right: 50px;
+    padding-left: 50px;
+
+}
+
+.panel button {
+    margin-top: 40px;
+    font-size: 1rem;
+}
+
+
+
+.descripcion {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* _____________ Nav _____________  */
+nav {
+    padding: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    color: var(--texto);
+}
+
+hr {
+    margin: 0;
+}
+
+.navLink {
+    display: inline-block;
+}
+
+.navTitulo {
+    display: inline-block;
+    font-size: x-large;
+    padding-left: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    cursor: pointer;
+    color: var(--texto);
+    font-family: "Cutive Mono", monospace;
+    font-weight: 500;
+    font-style: normal;
+}
+
+nav .navLink a:hover {
+    background-color: var(--secundario);
+}
+
+nav .navTitulo:hover {
+    color: var(--secundario);
+}
+
+.navLink a {
+    text-align: center;
+    color: var(--texto);
+    background-color: var(--fondo_light);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    margin-left: 15px;
+}
+
+.navBar {
+    position: fixed;
+    width: 100%;
+    background-color: var(--fondo);
+    margin: 0;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+/* _____________ Bloques _____________  */
+.bloque {
+    background-color: var(--secundario_fondo);
+    display: flex;
+    padding: 35px;
+    margin: 20px;
+    border-radius: 35px;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.cita {
+    padding-top: 15px;
+}
+
+.bloque span {
+    padding-top: 30px;
+}
+
+.bloque p {
+    margin: 0;
+    text-align: justify;
+    font-size: medium
+}
+
+.subpanel {
+    padding: 70px;
+}
+
+
+button a {
+    text-decoration: none;
+    color: var(--texto);
+}
+
+button:hover {
+    background-color: var(--secundario_hover);
+}

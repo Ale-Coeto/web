@@ -1,0 +1,31 @@
+
+.subpanel h4 {
+    padding-bottom: 20px;
+    color: var(--texto);
+}
+
+
+.sinopsis {
+    text-align: justify;
+    font-size: large;
+}
+
+.titulo_sinopsis {
+    padding-bottom: 20px;
+    font-size: 4rem;
+}
+
+.eye img{
+    align-items: center;
+   max-width: 100%;
+   object-fit: fill;
+}
+
+.space {
+    padding-bottom: 30px;
+}
+
+.orwell {
+    font-size: large;
+    text-align: justify;
+}
