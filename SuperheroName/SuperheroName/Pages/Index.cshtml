@@ -1,0 +1,158 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="imgContainer mt-5 mb-4">
+    <img src="~/images/ironman.jpeg" class="rounded-full" />
+</div>
+
+<h1>
+    WHAT IS YOUR SUPERHERO NAME?
+</h1>
+
+<p class="mb-5">
+    Enter name, birthday and favorite color to find out!
+</p>
+
+
+@*Alert message*@
+@if (!Model.correctName || !Model.correctSeason || !Model.correctMonth || !Model.correctBirthday || Model.noBirthday)
+{
+    <div class="alert alert-warning d-flex align-items-center" role="alert">
+        <div>
+            @Model.Message
+        </div>
+    </div>
+}
+
+
+
+<form method="post">
+
+    @*Name*@
+    <div class="mb-3">
+        <div class="d-flex align-items-center">
+            <label class="form-label">Name</label>
+            <button type="button" class="self-center info"
+                    data-bs-toggle="tooltip" data-bs-placement="right"
+                    data-bs-title="Write your own name">
+                <i class="bi bi-info-circle-fill"></i>
+
+            </button>
+        </div>
+        <input asp-for="Name" type="text" class="form-control @(Model.correctName ? "condition-true" : "condition-false")">
+    </div>
+
+
+    @*Favorite season and month*@
+    <div class="mb-3">
+        <div class="d-flex align-items-center">
+            <label class="form-label">Favorite season and month</label>
+            <button type="button" class="self-center info"
+                    data-bs-toggle="tooltip" data-bs-placement="right"
+                    data-bs-custom-class="custom-tooltip"
+                    data-bs-title="These information will help to choose your superhero name.">
+                <i class="bi bi-info-circle-fill"></i>
+
+            </button>
+        </div>
+
+        @*Favorite Season and month*@
+        <div class="row">
+            <div class="col">
+                <select asp-for="Season" class="form-select @(Model.correctSeason ? "condition-true" : "condition-false")" aria-label="Default select example">
+                    <option value=-1 selected>Season</option>
+                    <option value=0>Spring</option>
+                    <option value=1>Summer</option>
+                    <option value=2>Winter</option>
+                    <option value=3>Fall</option>
+                </select>
+            </div>
+
+            <div class="col">
+                <select asp-for="Month" class="form-select @(Model.correctMonth ? "condition-true" : "condition-false")" aria-label="Default select example">
+                    <option value=-1 selected>Month</option>
+                    <option value="0">January</option>
+                    <option value="1">February</option>
+                    <option value="2">March</option>
+                    <option value="3">April</option>
+                    <option value="4">May</option>
+                    <option value="5">June</option>
+                    <option value="6">July</option>
+                    <option value="7">August</option>
+                    <option value="8">September</option>
+                    <option value="9">October</option>
+                    <option value="10">November</option>
+                    <option value="11">December</option>
+                </select>
+            </div>
+
+        </div>
+    </div>
+
+    @*Birthday*@
+    <div>
+        <div class="d-flex align-items-center">
+            <label class="form-label">Birthday</label>
+            <button type="button" class="self-center info"
+                    data-bs-toggle="tooltip" data-bs-placement="right"
+                    data-bs-title="Select or write your birthday (dd/mm/yyyy)">
+                <i class="bi bi-info-circle-fill"></i>
+
+            </button>
+        </div>
+
+
+        <div class="col-12">
+            <input asp-for="Date" type="text" id="txtDate" class="form-control @(Model.correctBirthday ? "condition-true" : "condition-false")" autocomplete="off" />
+
+            <div class="col-6 mt-3 text-center">
+                <label id="lblDate">@ViewBag.Message</label>
+            </div>
+        </div>
+
+        @if (ViewBag.Message != null)
+        {
+            <script type="text/javascript">
+                $(function () {
+                    alert("@ViewBag.Message");
+                });
+            </script>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3 mb-5">
+        Submit
+    </button>
+</form>
+
+
+
+@section scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.js" type="text/javascript"></script>
+    <script type="text/javascript">$(function () {
+            $('#txtDate').datepicker({
+                changeMonth: true,
+                changeYear: true,
+                format: "dd/mm/yyyy",
+                language: "tr",
+                autoclose: true,
+                orientation: 'bottom',
+                maxDate: new Date()
+            });
+        });
+    </script>
+
+    <script>document.addEventListener('DOMContentLoaded', function () {
+            var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+            var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+                return new bootstrap.Tooltip(tooltipTriggerEl);
+            });
+        });
+    </script>
+
+
+}

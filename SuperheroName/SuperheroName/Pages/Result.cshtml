@@ -1,0 +1,35 @@
+﻿@page
+@model SuperheroName.Pages.ResultModel
+@{
+}
+
+
+<h1 class="mt-5">
+    YOUR SUPERHERO NAME IS...
+</h1>
+
+<div class="cd mt-5 mb-5" >
+    <div class="card-container">
+        <img src=@Model.ImgPath class="card-img" alt="...">
+    </div>
+    <div class="card-body">
+        <label class="form-label">
+            @Model.HeroName
+        </label>
+        <p class="card-text">
+           @Model.Description
+            Make sure to share and try new combos!
+        </p>
+
+    </div>
+    
+</div>
+
+<p>
+    Fun fact: The birthday of @Model.MonthHero is also in @Model.Month !
+</p>
+<div class="d-flex justify-content-center mt-3 mb-5">
+    <div class="btn btn-primary">
+        <a class="nostyle" asp-page="/Index">Get a new name!</a>
+    </div>
+</div>

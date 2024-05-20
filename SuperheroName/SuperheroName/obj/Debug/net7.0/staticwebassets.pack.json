@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/obj/Debug/net7.0/scopedcss/projectbundle/SuperheroName.bundle.scp.css",
+      "PackagePath": "staticwebassets/SuperheroName.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/1.jpeg",
+      "PackagePath": "staticwebassets/images/1.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/10.jpeg",
+      "PackagePath": "staticwebassets/images/10.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/11.jpeg",
+      "PackagePath": "staticwebassets/images/11.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/12.jpeg",
+      "PackagePath": "staticwebassets/images/12.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/2.jpeg",
+      "PackagePath": "staticwebassets/images/2.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/3.jpeg",
+      "PackagePath": "staticwebassets/images/3.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/4.jpeg",
+      "PackagePath": "staticwebassets/images/4.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/5.jpeg",
+      "PackagePath": "staticwebassets/images/5.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/6.jpeg",
+      "PackagePath": "staticwebassets/images/6.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/7.jpeg",
+      "PackagePath": "staticwebassets/images/7.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/8.jpeg",
+      "PackagePath": "staticwebassets/images/8.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/9.jpeg",
+      "PackagePath": "staticwebassets/images/9.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/fondo.jpg",
+      "PackagePath": "staticwebassets/images/fondo.jpg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/fondo1.jpg",
+      "PackagePath": "staticwebassets/images/fondo1.jpg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/fondo2.jpg",
+      "PackagePath": "staticwebassets/images/fondo2.jpg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/fondoS.jpg",
+      "PackagePath": "staticwebassets/images/fondoS.jpg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/ironman.jpeg",
+      "PackagePath": "staticwebassets/images/ironman.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/images/spiderman.jpeg",
+      "PackagePath": "staticwebassets/images/spiderman.jpeg"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/alecoeto/Documents/Web/web/SuperheroName/SuperheroName/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.SuperheroName.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.SuperheroName.props",
+      "PackagePath": "build\\SuperheroName.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SuperheroName.props",
+      "PackagePath": "buildMultiTargeting\\SuperheroName.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SuperheroName.props",
+      "PackagePath": "buildTransitive\\SuperheroName.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
