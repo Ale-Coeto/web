@@ -1,0 +1,126 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div class="w-full h-screen bg-gray-100 p-16">
+    <div class="font-bold">
+        Books and pages
+    </div>
+    <div class="text-gray-400">
+        Scroll right to see all options
+    </div>
+
+    <div class="flex flex-row gap-8 overflow-x-scroll p-4">
+
+        <div class="bg-white rounded-lg shadow-md p-4 flex flex-col gap-4">
+
+            <h1 class="font-bold">
+                Show books
+            </h1>
+
+            <form method="post">
+                <button type="submit" class="bg-green-400 rounded-md px-8 py-2 text-white no-underline hover:bg-green-300">
+                    Show
+                </button>
+            </form>
+            
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-4 flex flex-col gap-4">
+            <h1 class="font-bold">
+                Get book by ID
+            </h1>
+
+            <input />
+
+            <button class="bg-green-400 rounded-md px-8 py-2 text-white no-underline hover:bg-green-300">
+                Show
+            </button>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-4 flex flex-col gap-4">
+            <h1 class="font-bold">
+                Modify book by ID
+            </h1>
+
+            <input />
+
+            <button class="bg-green-400 rounded-md px-8 py-2 text-white no-underline hover:bg-green-300">
+                Show
+            </button>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-4 flex flex-col gap-4">
+            <h1 class="font-bold">
+                Get pages from book
+            </h1>
+
+            <input />
+
+            <button class="bg-green-400 rounded-md px-8 py-2 text-white no-underline hover:bg-green-300">
+                Get
+            </button>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-4 flex flex-col gap-4">
+            <h1 class="font-bold">
+                Insert page
+            </h1>
+
+            <input />
+
+            <button class="bg-green-400 rounded-md px-8 py-2 text-white no-underline hover:bg-green-300">
+                Insert
+            </button>
+        </div>
+
+        <div class="bg-white rounded-lg shadow-md p-4 flex flex-col gap-4">
+            <h1 class="font-bold">
+                Delete page
+            </h1>
+
+            <input />
+
+            <button class="bg-green-400 rounded-md px-8 py-2 text-white no-underline hover:bg-green-300">
+                Delete
+            </button>
+        </div>
+
+
+
+
+    </div>
+
+    <div>
+        <div class="font-bold mt-6">
+            Request results:
+        </div>
+        <table class="table table-responsive table-bordered">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Autor</th>
+                    <th>Cover</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.BookList)
+                {
+
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.book_id)</td>
+                        <td>@Html.DisplayFor(modelItem => item.name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.author)</td>
+                        <td>@Html.DisplayFor(modelItem => item.cover)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>

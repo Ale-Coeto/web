@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{AE572C04-6522-4DF6-AED6-B93A1AEC7194}|https">
+  <MonoDevelop.Ide.ItemProperties.API__Books PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="API_Books/Controllers/PageController.cs">
+    <Files>
+      <File FileName="API_Books/Book.cs" Line="20" Column="1" />
+      <File FileName="API_Books/Page.cs" />
+      <File FileName="API_Books/DatabaseManager.cs" Line="33" Column="42" />
+      <File FileName="API_Books/Controllers/BookController.cs" Line="27" Column="25" />
+      <File FileName="API_Books/Controllers/PageController.cs" Line="32" Column="31" />
+      <File FileName="API_Books/Program.cs" Line="16" Column="24" />
+      <File FileName="API_Books/appsettings.json" Line="1" Column="1" />
+      <File FileName="API_Books/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="API_Books/Properties/launchSettings.json" Line="16" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API_Books" expanded="True">
+            <Node name="API_Books">
+              <Node name="Controllers" expanded="True">
+                <Node name="PageController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

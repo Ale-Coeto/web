@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{FCF855EB-B538-4D2F-B8A1-281862109DA5}|https">
+  <MonoDevelop.Ide.ItemProperties.Books PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Books/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="Books/Pages/Shared/_Layout.cshtml" />
+      <File FileName="Books/Book.cs" Line="5" Column="3" />
+      <File FileName="Books/Page.cs" Line="16" Column="41" />
+      <File FileName="Books/Pages/Show.cshtml" />
+      <File FileName="Books/Pages/Show.cshtml.cs" Line="15" Column="6" />
+      <File FileName="Books/Pages/Index.cshtml" Line="112" Column="53" />
+      <File FileName="Books/Pages/Index.cshtml.cs" Line="18" Column="1" />
+      <File FileName="Books/Program.cs" Line="25" Column="1" />
+      <File FileName="Books/Properties/launchSettings.json" Line="23" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Books" expanded="True">
+            <Node name="Books">
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Index.cshtml" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
+                <Node name="Show.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

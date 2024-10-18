@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{14BAD44E-1573-4A6C-AD2E-0E53174D60E4}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsumirEjemplo PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsumirEjemplo/Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="ConsumirEjemplo/WeatherForecast.cs" />
+      <File FileName="ConsumirEjemplo/Pages/Index.cshtml.cs" Line="19" Column="23" />
+      <File FileName="ConsumirEjemplo/Pages/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsumirEjemplo" expanded="True">
+            <Node name="ConsumirEjemplo" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

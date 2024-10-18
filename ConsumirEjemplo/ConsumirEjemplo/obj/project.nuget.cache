@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Qd0Mf13SM91BWlCbe9lH/4hISs82SbTV96Xerr3CmAmEVGblpTwf9Sh4Xpbj/EYWqHY6DLqUJqj65VWmlpblw==",
+  "success": true,
+  "projectFilePath": "/Users/alecoeto/Documents/Web/ConsumirEjemplo/ConsumirEjemplo/ConsumirEjemplo.csproj",
+  "expectedPackageFiles": [
+    "/Users/alecoeto/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
